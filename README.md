@@ -1,5 +1,6 @@
-nativescript-socket.io
-======================
+# nativescript-socket.io
+
+Fork of https://github.com/naderio/nativescript-socket.io. Updated to newer gradle version. Only affect android.
 
 Full-featured Socket.IO client implementation for NativeScript.
 
@@ -16,18 +17,18 @@ Full-featured Socket.IO client implementation for NativeScript.
 
 This library is production-ready. Both Android and iOS implementations are stable and in sync.
 
-Please check [releases and changelog](https://github.com/naderio/nativescript-socket.io/releases) and [roadmap](https://github.com/naderio/nativescript-socket.io/issues/3) for more information.  
+Please check [releases and changelog](https://github.com/naderio/nativescript-socket.io/releases) and [roadmap](https://github.com/naderio/nativescript-socket.io/issues/3) for more information.
 
 # Dependencies
 
-Android: [Socket.IO-client Java](https://github.com/socketio/socket.io-client-java) v1.*
+Android: [Socket.IO-client Java](https://github.com/socketio/socket.io-client-java) v1.\*
 
-iOS: [Socket.IO-Client-Swift](https://github.com/socketio/socket.io-client-swift) v12.*
+iOS: [Socket.IO-Client-Swift](https://github.com/socketio/socket.io-client-swift) v12.\*
 
 # Install
 
 ```sh
-tns plugin add nativescript-socket.io
+tns plugin add @altabsrl/nativescript-socket.io
 ```
 
 # Usage

@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-socket.io",
+  "name": "@altabsrl/nativescript-socket.io",
   "version": "0.11.1",
   "description": "Full-featured Socket.IO client implementation for NativeScript",
   "main": "socketio",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naderio/nativescript-socket.io.git"
+    "url": "https://github.com/Altab-S-R-L/nativescript-socket.io"
   },
   "keywords": [
     "NativeScript",
@@ -33,9 +33,13 @@
     "SocketIO",
     "Socket"
   ],
-  "author": "Nader Toukabri <contact@nader.tech>",
+  "author": "Antony Rizzitelli <antony@altab.be>",
   "license": "Unlicense",
   "contributors": [
+    {
+      "name": "Nader Toukabri",
+      "url": "https://github.com/naderio"
+    },
     {
       "name": "Ludovic Fabrèges",
       "url": "https://github.com/lfabreges"
